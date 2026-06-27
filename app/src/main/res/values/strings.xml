@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digital Bank KYC</string>
+    <string name="camera_permission_required">Camera permission is required to capture a live selfie for KYC verification.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="retry">Retry</string>
+</resources>
