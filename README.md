@@ -210,9 +210,7 @@ Sync Gradle and Run the application.
 |------------------|---------------------|
 | <img src="screenshots/Account_details_dark_theme1.jpg" width="250"/> | <img src="screenshots/Account_details_dark_theme2.jpg" width="250"/> |
 
-| KYC Verified | KYC Pending |
-|--------------|-------------|
-| <img src="screenshots/Account_details_dark_theme3.jpg" width="250"/> | <img src="screenshots/KYC_pending.jpg" width="250"/> |
+
 
 ---
 
