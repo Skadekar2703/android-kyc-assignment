@@ -212,11 +212,7 @@ Sync Gradle and Run the application.
 
 
 
----
 
-# 🎥 Demo
-
-> Screen recording will be added after implementation.
 
 ---
 
